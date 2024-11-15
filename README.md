@@ -1,6 +1,6 @@
 # 🍽️ Driven Eats
 
-**Driven Eats** é um projeto de um aplicativo de delivery de comida, onde o usuário pode selecionar pratos, bebidas e sobremesas, visualizar o resumo do pedido e finalizar a compra com facilidade.
+**Driven Eats** é um projeto de um aplicativo de delivery de comida, que desenvolvi no curso da Driven, onde o usuário pode selecionar pratos, bebidas e sobremesas, visualizar o resumo do pedido e finalizar a compra com facilidade.
 
 ## 📋 Funcionalidades
 
